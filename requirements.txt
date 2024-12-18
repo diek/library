@@ -1,0 +1,10 @@
+asgiref==3.8.1
+autopep8==2.3.1
+Django==4.2.17
+django-extensions==3.2.3
+django-silk==5.3.2
+gprof2dot==2024.6.6
+MarkupSafe==3.0.2
+pycodestyle==2.12.1
+sqlparse==0.5.3
+Werkzeug==3.1.3
